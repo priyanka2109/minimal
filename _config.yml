@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Priyanka Gupta
+logo: /assets/img/logo.jpg
+description:
+<a href="https://www.linkedin.com/in/priyanka-gupta-056015137/">Linkedin</a>
+<br>
+Hey there! I am Priyanka Gupta, currently working as a Product Analayst at Amex. 
+My interest lies in NLP(specifically in NLU applications) Fell free to reach out for collab on such projects.
+</br>
 theme: jekyll-theme-minimal
